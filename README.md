@@ -11,7 +11,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone <url-репозитория>
+git clone https://github.com/andrew-aaa/dz-catalog-analysis-akulinin-m26-555
 cd dz-catalog-analysis-akulinin-m26-555
 
 # Установить зависимости
