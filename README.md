@@ -39,9 +39,12 @@ uv run ruff check .
 ## Структура проекта
 
 ```
+├── src
+|   ├── __init__.py
+|   └── catalog_analysis.py # Основной код с функциями анализа
 ├── pyproject.toml      # Конфигурация проекта
 ├── uv.lock            # Зафиксированные версии зависимостей
-├── catalog_analysis.py # Основной код с функциями анализа
+├── catalog_analysis.py # Точка входа
 └── README.md          # Документация
 ```
 
